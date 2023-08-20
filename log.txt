@@ -54,3 +54,4 @@ model:cnnlstm, lr: 0.001, epochs:1000, batch size:64, hidden_size:64, train time
 model:cnnlstm, lr: 0.001, epochs:1000, batch size:64, hidden_size:64, train times:0.0
 model:cnnlstm, lr: 0.001, epochs:1000, batch size:64, hidden_size:64, train times:0.0
 model:lstm, lr: 0.001, epochs:100, batch size:64, hidden_size:64, train times:0.0
+model:cnnlstm, lr: 0.001, epochs:500, batch size:64, hidden_size:64, train times:0.0
